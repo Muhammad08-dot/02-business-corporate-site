@@ -4,3 +4,7 @@ dist
 .env.local
 *.ps1
 .imgcheck
+.vercel
+
+# vercel cli
+.vercel
